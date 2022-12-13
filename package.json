@@ -13,7 +13,7 @@
     "angular-file-upload-shim": "^1.6.4",
     "angular-messages": "^1.7.3",
     "angular-route": "^1.7.3",
-    "aws-sdk": "^2.766.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
