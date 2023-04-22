@@ -1,6 +1,5 @@
 const React = require('react');
 const PropTypes = require('prop-types');
-const axios = require('axios');
 import axios from 'axios'
 const swal = require('sweetalert');
 const _ = require('lodash');
