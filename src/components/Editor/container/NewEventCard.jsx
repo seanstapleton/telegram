@@ -1,5 +1,5 @@
 const React = require('react');
-const axios = require('axios');
+import axios from 'axios';
 const swal = require('sweetalert');
 const PropTypes = require('prop-types');
 const EditCardForm = require('../../Card/container/EditCardForm.jsx');

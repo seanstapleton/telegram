@@ -1,5 +1,5 @@
 const React = require('react');
-const axios = require('axios');
+import axios from 'axios';
 const Router = require('./Router');
 
 class App extends React.Component {
